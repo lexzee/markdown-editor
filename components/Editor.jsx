@@ -1,4 +1,3 @@
-import React from "react"
 import ReactMde from "react-mde"
 // const ReactMde = R.default
 import Showdown from "showdown"
